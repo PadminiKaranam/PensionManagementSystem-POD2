@@ -30,7 +30,23 @@ Different Micro services are:
          
 2. Pensioner Detail MicroService:
     This MicroService stores 20 Pensioner details in a CSV file. It will return the pensioner details based on AadharNumber.
+    Step-1 : select POST method
     
+    
+    
+    
+    
+    
+    Functionalities
+A)Authorization Microservice:
+Main Functionality---> To Generate the token and Validate the token.
+
+Step-1:Open Postman and follow the steps below:
+
+Step-2:Go to Url section and paste---> http://localhost:8400/auth/api/v1/authenticate
+
+Method:POST
+xrb-gwqn-ftf
     
     
 
